@@ -50,8 +50,8 @@ const CONTENT_CONFIG = {
     {
       id: "video2",
       // Outro exemplo - substitua pelo seu link real
-      videoUrl: "https://drive.google.com/file/d/1JZWzrmvnUxbpqoDFbC6Se0IFMeLCf9pt/view?usp=drive_link",
-      thumbnail: "https://iili.io/F3W8ze2.jpg",
+      videoUrl: "https://drive.google.com/file/d/1KHiSjEojwKvbidI8NkOx-jGKc8F7FXsM/view?usp=sharing",
+      thumbnail: "https://iili.io/FdO7pVt.jpg",
       title: "Provando lingerie nova 💕",
       duration: "05:12",
       views: "18.7K",
@@ -180,7 +180,7 @@ export default function ProfileContent() {
               >
                 <div className="p-3 flex items-center gap-3">
                   <div className="relative h-10 w-10 rounded-full overflow-hidden">
-                    <Image src="https://iili.io/3ZiexRf.jpghttps://iili.io/3ZiexRf.jpghttps://iili.io/3ZiexRf.jpg" alt="Profile" fill className="object-cover" />
+                    <Image src="https://iili.io/3ZiexRf.jpg" alt="Profile" fill className="object-cover" />
                   </div>
                   <div>
                     <p className="font-medium text-white">Isabelle Lua</p>
