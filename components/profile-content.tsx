@@ -50,7 +50,7 @@ const CONTENT_CONFIG = {
     {
       id: "video2",
       // Outro exemplo - substitua pelo seu link real
-      videoUrl: "https://drive.google.com/file/d/1KHiSjEojwKvbidI8NkOx-jGKc8F7FXsM/view?usp=sharing",
+      videoUrl: "https://drive.google.com/file/d/1Ka7Is_kssWNr1n8TaJtCQtQtTFTFVAYv/view?usp=sharing",
       thumbnail: "https://iili.io/FdO7pVt.jpg",
       title: "Provando lingerie nova 💕",
       duration: "05:12",
