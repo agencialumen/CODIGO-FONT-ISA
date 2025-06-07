@@ -9,7 +9,7 @@ import SubscriptionModal from "@/components/subscription-modal"
 
 // Configuração centralizada - fácil de editar
 const CHAT_CONFIG = {
-  profileImage: "/images/profile-avatar.jpg",
+  profileImage: "https://iili.io/3ZiexRf.jpg",
   title: "Chat Exclusivo",
   subtitle: "Disponível para assinantes do plano Diamante",
   buttonText: "LIBERAR CHAT",
