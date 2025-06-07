@@ -13,7 +13,7 @@ const CONTENT_CONFIG = {
   photos: [
     {
       id: "photo1",
-      src: "https://iili.io/FdO7pVt.jpg",
+      src: "https://iili.io/F3jaIgn.md.jpg",
       title: "Dia de praia com as amigas 🏖️",
       likes: "3.2K",
       comments: "128",
