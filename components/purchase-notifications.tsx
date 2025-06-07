@@ -53,7 +53,7 @@ const NOTIFICATION_CONFIG = {
   // Plano VIP único
   vipPlan: {
     name: "Plano VIP",
-    price: "R$49,90",
+    price: "R$19,90",
     color: "from-purple-500 to-pink-500",
   },
 

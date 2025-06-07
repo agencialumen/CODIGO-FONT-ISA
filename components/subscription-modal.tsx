@@ -8,7 +8,7 @@ import { Check, Crown } from "lucide-react"
 const VIP_PLAN = {
   id: "vip",
   title: "Plano VIP",
-  price: "R$49,90",
+  price: "R$19,90",
   popular: true,
   imageSrc: "/images/plan-vip.jpg", // Atualize para uma imagem adequada
   icon: <Crown className="h-5 w-5 text-amber-400" />,
