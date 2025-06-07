@@ -40,7 +40,7 @@ const CONTENT_CONFIG = {
     {
       id: "video1",
       // Exemplo de link do Google Drive - substitua pelo seu link real
-      videoUrl: "https://drive.google.com/file/d/1JkVNUtTHcQQ6q4roMXATFQuWeAV0QKs8/view?usp=sharing",
+      videoUrl: "https://drive.google.com/file/d/1bkUEMhQKzv_0xHQRXOXEH9o2CJ3vS4_n/view?usp=drivesdk",
       thumbnail: "https://iili.io/F3XgZN4.md.jpg",
       title: "Banho quente 🚿",
       duration: "03:24",
