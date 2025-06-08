@@ -11,7 +11,7 @@ import { motion } from "framer-motion"
 const PROFILE_CONFIG = {
   username: "Isabelle Lua",
   handle: "@belinha.ofc",
-  bio: "🔥 Sou putinha, mas gosto de ser tratada como princesa | 💦 Se for me chamar, vem com tesão e pix.",
+  bio: "🔥 Sou putinha, mas gosto de ser tratada como princesa 💦",
   stats: {
     posts: "347",
     photos: "224",
