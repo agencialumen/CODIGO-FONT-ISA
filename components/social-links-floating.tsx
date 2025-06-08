@@ -19,7 +19,7 @@ const SOCIAL_LINKS = [
     id: "telegram",
     name: "Telegram",
     icon: Send,
-    url: "https://t.me/+mG9nR5fAcaUzNDdh",
+    url: "https://t.me/+h6JxPBU61oo2N2Mx",
     color: "from-blue-400 to-cyan-400",
     glowColor: "rgba(56, 189, 248, 0.6)",
   },
