@@ -13,7 +13,7 @@ const CONTENT_CONFIG = {
   photos: [
     {
       id: "photo1",
-      src: "https://iili.io/F3jaIgn.md.jpg",
+      src: "https://iili.io/F3jthLg.jpg",
       title: "Dia de praia com as amigas 🏖️",
       likes: "3.2K",
       comments: "128",
@@ -40,9 +40,9 @@ const CONTENT_CONFIG = {
     {
       id: "video1",
       // Exemplo de link do Google Drive - substitua pelo seu link real
-      videoUrl: "https://drive.google.com/file/d/1bkUEMhQKzv_0xHQRXOXEH9o2CJ3vS4_n/view?usp=drivesdk",
-      thumbnail: "https://iili.io/F3XgZN4.md.jpg",
-      title: "Sou uma putinha amor, doida pra fuder.",
+      videoUrl: "https://drive.google.com/file/d/1Kt7AnubcAH9Mw1HwE2je6-YlOfTJ4pxW/view?usp=sharing",
+      thumbnail: "https://iili.io/F3jZMVs.jpg",
+      title: "Uma putinha igual a mim, não tem",
       duration: "00:07",
       views: "12.3K",
       date: "Hoje",
@@ -52,7 +52,7 @@ const CONTENT_CONFIG = {
       // Outro exemplo - substitua pelo seu link real
       videoUrl: "https://drive.google.com/file/d/1Ka7Is_kssWNr1n8TaJtCQtQtTFTFVAYv/view?usp=sharing",
       thumbnail: "https://iili.io/FdO7pVt.jpg",
-      title: "De vestidinho coladinho 💕",
+      title: "Meus vizinhos ficam loucos comigo 💕",
       duration: "00:06",
       views: "18.7K",
       date: "Ontem",
